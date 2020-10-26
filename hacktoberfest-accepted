@@ -1,0 +1,46 @@
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="Fstyle.css" />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Anton&display=swap"
+      rel="stylesheet"
+    />
+
+    <title>Forest</title>
+  </head>
+  <body>
+    <div class="journey">
+      <h1 id="j">JOURNEY</h1>
+    </div>
+
+    <div class="table">
+      <table>
+        <tr>
+          <td id="home">Home</td>
+          <td>Contact</td>
+          <td>About Us</td>
+        </tr>
+      </table>
+    </div>
+
+    <div class="botm">
+      <h1>Comming Soon</h1>
+      <p class="para">- A New Way of Life.</p>
+    </div>
+    <div class="card">
+      <table>
+        <tr>
+          <td><img src="image/beach.jpg" alt="beach" class="beach" /></td>
+          <td>
+            <img src="image/mountain.jpg" alt="mountain" class="mountain" />
+          </td>
+          <td>
+            <img src="image/mountain2.jpg" alt="mountain2" class="mountain2" />
+          </td>
+        </tr>
+      </table>
+    </div>
+  </body>
+</html>
